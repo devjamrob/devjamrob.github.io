@@ -1,0 +1,58 @@
+/*
+Devin Robinson
+Final Project
+5/10/20
+*/
+h1{
+    font-family: 'Cuprum', sans-serif;
+}
+
+.front{
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left: 140px;
+  margin-right: 140px;
+  text-align: center;
+  font-size: 18px;
+  border: inset 3.5px lightgray;
+  background-color: #ffe6e6;
+}
+
+.lake{
+  padding-top: 30px;
+  padding-bottom: 50px;
+  width: 450px;
+}
+
+.bio{
+  padding: 40px;
+}
+
+footer{
+  text-align: center;
+}
+
+#carouselExampleIndicators{
+  margin-bottom: 280px;
+}
+
+#container{
+  background-color: lightgray;
+  margin-top: 10px;
+}
+
+form{
+  width: 750px;
+  border: solid 3px lightgray;
+  padding-right: 35px;
+  padding-bottom: 35px;
+}
+
+#exampleInputPassword1{
+  height: 150px;
+}
+
+.floatImage{
+  float: right;
+  width: 700px;
+}
